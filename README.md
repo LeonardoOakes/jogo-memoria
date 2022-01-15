@@ -1,1 +1,1 @@
-# jogo da memória criado a partir de novos conhecimentos adiquiridos ao longos de estudos atuais em JS e CSS.
+# Jogo da memória criado a partir de novos conhecimentos adiquiridos ao longo de meus atuais estudos em JS e CSS.
